@@ -11,7 +11,7 @@ This repository contains the downloadable installer only. The application source
 | | |
 | --- | --- |
 | File | `AEGIS_1.1.0_x64-setup.exe` |
-| SHA-256 | `80a492cace87dd8cc88eacca66f782ad68c895134b8d5dbe48c768453cf06c97` |
+| SHA-256 | `3e516a12a1ab785fecd723298b7ed9b7403ca0028290ec41c4bfa1924799ab8e` |
 | Publisher shown in the file properties | Daetis |
 
 Windows will warn that the publisher is unknown until a Daetis Authenticode certificate is attached. The file-property publisher name is Daetis; that label is not a cryptographic signature.
