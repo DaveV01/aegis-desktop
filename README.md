@@ -11,13 +11,17 @@ This repository contains the downloadable installer only. The application source
 | | |
 | --- | --- |
 | File | `AEGIS_1.1.0_x64-setup.exe` |
-| SHA-256 | `3e516a12a1ab785fecd723298b7ed9b7403ca0028290ec41c4bfa1924799ab8e` |
+| Latest release tag | `v1.1.0-d534275` |
+| Source revision | `d534275d8256c2ca896a55f6a5c6dd0780a77d99` |
+| SHA-256 | `e9f5527c3c31aecad48951a774c148f0919c4aa2e4bc993985ad618f6664ac76` |
 | Publisher shown in the file properties | Daetis |
+| Authenticode | Valid |
+| Authenticode signer | `CN=DAETIS OÜ, O=DAETIS OÜ, L=Tallinn, C=EE` |
 
-Windows will warn that the publisher is unknown until a Daetis Authenticode certificate is attached. The file-property publisher name is Daetis; that label is not a cryptographic signature.
+The publisher shown in the Windows file properties is Daetis. That name is not the cryptographic signer. Authenticode verification of this installer is Valid, and the signer is CN=DAETIS OÜ, O=DAETIS OÜ, L=Tallinn, C=EE.
 
 ## What this installer is
 
-The app is a desktop window around the AEGIS interface. It connects to `https://aihria.eu`. It does not install PostgreSQL, Node, or the API, and it does not contain model keys.
+This is the online-only client. It is a desktop window around the AEGIS interface and connects to `https://aihria.eu`. It does not install PostgreSQL, Node, or the API, and it does not contain model keys.
 
 Create an account in the app, then sign in. Projects and documents are stored on the service under that account.
