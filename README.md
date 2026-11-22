@@ -11,9 +11,9 @@ This repository contains the downloadable installer only. The application source
 | | |
 | --- | --- |
 | File | `AEGIS_1.1.0_x64-setup.exe` |
-| Latest release tag | `v1.1.0-8e4373f` |
-| Source revision | `8e4373f0e6b298c747a4e933217ddd5047ade248` |
-| SHA-256 | `cb22f84efffb58a8d8361cba2f7156f6c0fd43c8097fb8453899cd99bb51013b` |
+| Latest release tag | `v1.1.0-91a6d81` |
+| Source revision | `91a6d81a8c60a5ced640a3c549720276b6fd965d` |
+| SHA-256 | `00089ea081e34f0ec57391f31729f1001eac8d3616d1c5910bdecb460f6a401d` |
 | Publisher shown in the file properties | Daetis |
 | Authenticode | Valid |
 | Authenticode signer | `CN=DAETIS OÜ, O=DAETIS OÜ, L=Tallinn, C=EE` |
